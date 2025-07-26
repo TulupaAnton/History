@@ -6,7 +6,7 @@ export function Askold () {
     <div className='flex flex-col items-center justify-start  bg-yellow-50 pt-10'>
       <div className='max-w-xs border-4 border-yellow-800 rounded-xl overflow-hidden shadow-md hover:shadow-lg transform hover:-translate-y-1 transition duration-300 bg-yellow-50 bg-[url("/src/assets/pergament-texture.jpg")] bg-cover'>
         <img
-          src='./src/assets/askold.webp'
+          src='./src/public/askold.webp'
           alt='Askold'
           className='w-full object-cover h-48 border-b-4 border-yellow-800'
         />
